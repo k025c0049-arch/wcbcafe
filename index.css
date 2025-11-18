@@ -1,0 +1,9 @@
+@charset "UTF-8";
+html{
+    font-size: 100%;
+}
+body{
+    font-family: "Hiragino Gothic ProN","Hiragino Sans","BIZ UDPGothic",sans-serif;
+    line-height: 1.7;
+    color:#432;
+}
