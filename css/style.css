@@ -128,3 +128,20 @@ img{
 .info td{
     padding:1rem 0;
 }
+
+/*デスクトップ版*/
+@media (min-width:800px){
+    /*見出し*/
+    .page-title{
+        font-size: 5rem;
+    }
+
+    .heading-large{
+        font-size: 4rem;
+    }
+
+    /*ヘッダー*/
+    .main-nav{
+        font-size:2rem;
+    }
+}
