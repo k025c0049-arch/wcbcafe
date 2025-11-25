@@ -65,6 +65,7 @@ img{
     background-color:#0090aa;
     scale:1.2;
     rotate:-5deg;
+    translate:10px;
 }
 
 /*ヘッダー*/
